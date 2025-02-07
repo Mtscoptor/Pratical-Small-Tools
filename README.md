@@ -1,4 +1,4 @@
 # Pratical-Small-Tools
-C++工具集
+自制函数工具集
 
 1.日期计算器
